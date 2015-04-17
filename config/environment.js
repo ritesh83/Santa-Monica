@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'santa-monica',
     environment: environment,
-    baseURL: '/',
+    baseURL: '/santa-monica',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
